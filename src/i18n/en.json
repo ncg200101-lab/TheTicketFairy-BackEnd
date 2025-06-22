@@ -1,0 +1,56 @@
+{
+  "system.unknown_error": "An error occurred. Please try again later.",
+  "system.validation_error": "Invalid data.",
+  "system.not_found": "Resource not found.",
+  "system.unauthorized": "Unauthorized access.",
+  "system.forbidden": "Access forbidden.",
+  "system.too_many_requests": "Too many requests. Please try again later.",
+  "system.internal_error": "Internal server error.",
+  
+  "user.create.success": "User created successfully.",
+  "user.get.success": "User retrieved successfully.",
+  "user.list.success": "Users retrieved successfully.",
+  "user.update.success": "User updated successfully.",
+  "user.delete.success": "User deleted successfully.",
+  "user.not_found": "User not found.",
+  "user.email.exists": "Email already exists in the system.",
+  "user.email.required": "Email is required.",
+  "user.email.invalid": "Invalid email format.",
+  "user.ho.required": "First name is required.",
+  "user.ten.required": "Last name is required.",
+  
+  "file.upload.success": "File uploaded successfully.",
+  "file.upload.multiple.success": "Multiple files uploaded successfully.",
+  "file.get.success": "File retrieved successfully.",
+  "file.list.success": "Files retrieved successfully.",
+  "file.download.success": "File downloaded successfully.",
+  "file.delete.success": "File deleted successfully.",
+  "file.not_found": "File not found.",
+  "file.not_provided": "No file provided.",
+  "file.type.invalid": "Invalid file type. Only images, PDFs and documents are allowed.",
+  "file.size.too_large": "File size too large. Maximum 10MB allowed.",
+  
+  "health.status.ok": "System is running normally.",
+  "health.ping.success": "Connection successful.",
+  "health.info.success": "API information retrieved successfully.",
+  
+  "database.connection.success": "Database connected successfully.",
+  "database.connection.failed": "Database connection failed.",
+  "database.migration.success": "Database migration completed successfully.",
+  "database.seed.success": "Database seeded successfully.",
+  
+  "redis.connection.success": "Redis connected successfully.",
+  "redis.connection.failed": "Redis connection failed.",
+  
+  "minio.connection.success": "MinIO connected successfully.",
+  "minio.connection.failed": "MinIO connection failed.",
+  "minio.bucket.created": "MinIO bucket created successfully.",
+  "minio.bucket.exists": "MinIO bucket already exists.",
+  
+  "example.get_all.success": "Examples retrieved successfully.",
+  "example.get_by_id.success": "Example retrieved successfully.",
+  "example.create.success": "Example created successfully.",
+  "example.update.success": "Example updated successfully.",
+  "example.delete.success": "Example deleted successfully.",
+  "example.not_found": "Example not found."
+}

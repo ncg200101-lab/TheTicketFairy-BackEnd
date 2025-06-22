@@ -1,0 +1,56 @@
+{
+  "system.unknown_error": "Có lỗi xảy ra. Vui lòng thử lại sau.",
+  "system.validation_error": "Dữ liệu không hợp lệ.",
+  "system.not_found": "Không tìm thấy tài nguyên.",
+  "system.unauthorized": "Không có quyền truy cập.",
+  "system.forbidden": "Bị cấm truy cập.",
+  "system.too_many_requests": "Quá nhiều yêu cầu. Vui lòng thử lại sau.",
+  "system.internal_error": "Lỗi hệ thống nội bộ.",
+  
+  "user.create.success": "Tạo người dùng thành công.",
+  "user.get.success": "Lấy thông tin người dùng thành công.",
+  "user.list.success": "Lấy danh sách người dùng thành công.",
+  "user.update.success": "Cập nhật người dùng thành công.",
+  "user.delete.success": "Xóa người dùng thành công.",
+  "user.not_found": "Không tìm thấy người dùng.",
+  "user.email.exists": "Email đã tồn tại trong hệ thống.",
+  "user.email.required": "Email là bắt buộc.",
+  "user.email.invalid": "Email không hợp lệ.",
+  "user.ho.required": "Họ là bắt buộc.",
+  "user.ten.required": "Tên là bắt buộc.",
+  
+  "file.upload.success": "Tải lên tập tin thành công.",
+  "file.upload.multiple.success": "Tải lên nhiều tập tin thành công.",
+  "file.get.success": "Lấy thông tin tập tin thành công.",
+  "file.list.success": "Lấy danh sách tập tin thành công.",
+  "file.download.success": "Tải xuống tập tin thành công.",
+  "file.delete.success": "Xóa tập tin thành công.",
+  "file.not_found": "Không tìm thấy tập tin.",
+  "file.not_provided": "Không có tập tin được cung cấp.",
+  "file.type.invalid": "Loại tập tin không hợp lệ. Chỉ cho phép hình ảnh, PDF và văn bản.",
+  "file.size.too_large": "Kích thước tập tin quá lớn. Tối đa 10MB.",
+  
+  "health.status.ok": "Hệ thống hoạt động bình thường.",
+  "health.ping.success": "Kết nối thành công.",
+  "health.info.success": "Lấy thông tin API thành công.",
+  
+  "database.connection.success": "Kết nối cơ sở dữ liệu thành công.",
+  "database.connection.failed": "Kết nối cơ sở dữ liệu thất bại.",
+  "database.migration.success": "Migration cơ sở dữ liệu thành công.",
+  "database.seed.success": "Seed dữ liệu thành công.",
+  
+  "redis.connection.success": "Kết nối Redis thành công.",
+  "redis.connection.failed": "Kết nối Redis thất bại.",
+  
+  "minio.connection.success": "Kết nối MinIO thành công.",
+  "minio.connection.failed": "Kết nối MinIO thất bại.",
+  "minio.bucket.created": "Tạo bucket MinIO thành công.",
+  "minio.bucket.exists": "MinIO bucket đã tồn tại.",
+  
+  "example.get_all.success": "Lấy danh sách ví dụ thành công.",
+  "example.get_by_id.success": "Lấy thông tin ví dụ thành công.",
+  "example.create.success": "Tạo ví dụ thành công.",
+  "example.update.success": "Cập nhật ví dụ thành công.",
+  "example.delete.success": "Xóa ví dụ thành công.",
+  "example.not_found": "Không tìm thấy ví dụ."
+}
