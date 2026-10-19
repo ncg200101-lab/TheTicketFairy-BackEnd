@@ -40,7 +40,7 @@ services:
 
   # MinIO Object Storage
   minio:
-    image: minio/minio:latest
+    image: cgr.dev/chainguard/minio:latest
     container_name: ${COMPOSE_PROJECT_NAME:-ktx}-dev-minio
     ports:
       - "${MINIO_PORT:-9000}:9000"

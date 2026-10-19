@@ -41,7 +41,7 @@ services:
 
   # MinIO Object Storage
   minio:
-    image: minio/minio:latest
+    image: cgr.dev/chainguard/minio:latest
     container_name: ktx-minio
     ports:
       - "9000:9000"

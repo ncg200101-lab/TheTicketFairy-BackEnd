@@ -89,7 +89,7 @@ app.use(responseHandler);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs, {
   explorer: true,
   customCss: '.swagger-ui .topbar { display: none }',
-  customSiteTitle: 'KTX API Documentation',
+  customSiteTitle: 'TheTickerFairy API Documentation',
 }));
 
 // Routes

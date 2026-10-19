@@ -1,4 +1,5 @@
-# 🚀 Node.js Express Base Project
+# TheTicketFairy BackEnd Project
+🚀 Node.js Express Base Project
 
 A complete, production-ready Node.js/Express base project template with PostgreSQL, Redis, MinIO, and modern development tools. Use this as a starting point for any backend API project.
 
